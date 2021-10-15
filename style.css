@@ -1,0 +1,31 @@
+.highlight {
+    color: white;
+    background: linear-gradient(120deg, #596854 0%, #596854 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 40%;
+    background-position: 0 50%;
+}
+
+.boxed {
+    background-color: #596854;
+    padding: 15px;
+    margin: 10x;
+}
+
+a:link {
+    color: #ffe9a8;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: #ffc929;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: beige !important;
+    background-color: transparent;
+    text-decoration: underline;
+}
